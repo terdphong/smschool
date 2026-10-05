@@ -1,0 +1,7 @@
+{
+  "name": "โรงเรียนบางปลาม้า สูงสุมารผดุงวิทย์",
+  "description": "เว็บไซต์ทางการ โรงเรียนบางปลาม้า \"สูงสุมารผดุงวิทย์\" สพม.สุพรรณบุรี โรงเรียนคุณภาพตามมาตรฐานสากล World-Class Standard School",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
